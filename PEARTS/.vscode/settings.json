@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "string.h": "c"
+    },
+    "cSpell.words": [
+        "funcptr"
+    ],
+    "cmake.sourceDirectory": "D:/Workspace/Git/CFA_RTOS/RTOSandModulesTest/Secure"
+}
