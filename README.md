@@ -65,6 +65,6 @@ To use the shadow task, follow these steps:
 
 1. Open the `rtpox_tasks.c` file located at `NonSecure/core/Src/rtpox_tasks`.
 
-2. Implement the necessary functionality within the wrapper task using the function `run_application()`. This may include handling secure task requests, forwarding data between secure and non-secure tasks, and managing synchronization between tasks.
+2. Implement the necessary functionality within the wrapper task using the function `run_application()`. 
 
 Additional functionalities and usage details for the wrapper task will be added soon as we update the documentation and rearrange the code.
