@@ -67,4 +67,4 @@ To use the shadow task, follow these steps:
 
 2. Implement the necessary functionality within the wrapper task using the function `run_application()`. 
 
-Additional functionalities and usage details for the wrapper task will be added soon as we update the documentation and rearrange the code.
+Additional functionalities and usage details for PEARTS will be added soon as we update the documentation and rearrange the code.
