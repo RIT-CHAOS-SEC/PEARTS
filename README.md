@@ -1,4 +1,4 @@
-# IMPORTANT NOTE:  THIS repo is moving to https://github.com/SPINS-RG/pearts with a port for raspberry pi pico 2 and will be available soon
+# This repo is moving to https://github.com/SPINS-RG/pearts with a port for raspberry pi pico 2 and will be available soon
 
 
 # PEARTS
