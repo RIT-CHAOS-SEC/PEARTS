@@ -1,3 +1,6 @@
+#NOTE:  THIS repo is moving to https://github.com/SPINS-RG/pearts with a port for raspberry pi pico 2 and will be available soon
+
+
 # PEARTS
 
 This is the open source repository for the paper PEARTS: 
